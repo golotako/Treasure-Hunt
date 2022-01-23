@@ -7,4 +7,4 @@ Make sure to read the rules and of course enjoy!
 
 Good luck on your hunting! 
 
-Make sure to change the path of the file to path on your own PC
+***Make sure to change the path of the file to path on your own PC***

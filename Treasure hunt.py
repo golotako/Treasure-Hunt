@@ -86,6 +86,17 @@ with open(path,"r") as file_handler:
                     break
         game_File.close()
         
+#challenge:
+with open(path_2,"a") as result_file:
+    result_file.writelines(str(name_of_player.upper()))
+    result_file.writelines("--")
+    result_file.writelines(str(how_many_tries))
+    result_file.writelines("_____")
+    
+    result_file.close()
+
+
+        
 
 
 
